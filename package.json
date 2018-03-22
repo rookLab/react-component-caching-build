@@ -1,6 +1,6 @@
 {
   "name": "react-component-caching",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Component caching library for server-side rendering in React",
   "main": "index.js",
   "directories": {
@@ -13,7 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/rookLab/react-component-caching.git"
   },
-  "author": "",
+  "author": "React Component Caching",
+  "email": "reactcomponentcaching@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rookLab/react-component-caching/issues"
